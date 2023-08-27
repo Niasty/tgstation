@@ -22,28 +22,28 @@ map birdshot
 endmap
 
 map deltastation
-	minplayers 50
+	#minplayers 50
 	votable
 endmap
 
 map icebox
-	minplayers 25
+	#minplayers 25
 	votable
 endmap
 
 map metastation
-	minplayers 25
 	#voteweight 0.5
 	votable
+	default
 endmap
 
 map northstar
-	minplayers 50
+	#minplayers 50
 	votable
 endmap
 
 map tramstation
-	minplayers 35
+	#minplayers 35
 	votable
 endmap
 
